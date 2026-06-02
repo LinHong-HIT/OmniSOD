@@ -9,15 +9,15 @@ Created by **Lin Hong**, email: eelinhong@ust.hk
 Cross-domain salient object detection (SOD) aims to learn a unified model that
 can generalize across terrestrial, underwater, and aerial environments. This
 capability is important for robotic systems deployed under diverse operating
-conditions. However, directly training a shared SOD model with
+conditions. 
+![Introduction](intro.png)
+However, directly training a shared SOD model with
 multi-domain data often suffers from cross-domain conflicts, where
 domain-dependent appearance variations may bias feature learning toward
 domain-specific patterns and weaken the extraction of transferable saliency
 cues. To address this problem, this paper proposes OmniSOD, a cross-domain SOD model
 based on collaborative learning of domain-invariant and domain-specific
 representations. 
-![OmniSOD Framework](intro.png)
-
 The [trained model](https://pan.baidu.com/s/1XrjVo-3aIjtz1we7VyYhsw?pwd=USOD) (Baidu Netdisk, fetch code: OmniSOD) or [Google Drive version](https://drive.google.com/file/d/1SMGjuNXauvSFUt9BW4tg6rtq0ZBsbTKm/view?usp=sharing) can be downloaded.
 
 ![OmniSOD Framework](framework1.png)
