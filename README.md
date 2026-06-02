@@ -1,4 +1,4 @@
-# DSS-USOD
+# OmniUSOD
 Source code for our paper **[OmniSOD: Cross-Domain Salient Object Detection via Collaborative Domain-Invariant and Domain-Specific Representation Learning]**.
 
 Created by **Lin Hong**, email: eelinhong@ust.hk
