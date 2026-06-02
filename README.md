@@ -46,7 +46,7 @@ The [trained model](https://pan.baidu.com/s/1XrjVo-3aIjtz1we7VyYhsw?pwd=USOD) (B
 ## Benchmark
 Here is the qualitative evaluation of the 30 SOTA methods and the proposed OmniSOD model on three datasets.
 
-![Qualitative Evaluation](qualitative_compare2.png)
+![Qualitative Evaluation](qualitative.png)
 
 ### Available Resources
 1. **Predicted saliency maps of OmniSOD**  
