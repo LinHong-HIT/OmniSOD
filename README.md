@@ -11,7 +11,7 @@ can generalize across terrestrial, underwater, and aerial environments. This
 capability is important for robotic systems deployed under diverse operating
 conditions. 
 
-![Introduction](intro.png)
+![Introduction](OmniSOD.png)
 
 However, directly training a shared SOD model with
 multi-domain data often suffers from cross-domain conflicts, where
