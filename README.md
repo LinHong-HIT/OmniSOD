@@ -10,7 +10,9 @@ Cross-domain salient object detection (SOD) aims to learn a unified model that
 can generalize across terrestrial, underwater, and aerial environments. This
 capability is important for robotic systems deployed under diverse operating
 conditions. 
+
 ![Introduction](intro.png)
+
 However, directly training a shared SOD model with
 multi-domain data often suffers from cross-domain conflicts, where
 domain-dependent appearance variations may bias feature learning toward
