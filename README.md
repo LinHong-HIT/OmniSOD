@@ -16,6 +16,8 @@ domain-specific patterns and weaken the extraction of transferable saliency
 cues. To address this problem, this paper proposes OmniSOD, a cross-domain SOD model
 based on collaborative learning of domain-invariant and domain-specific
 representations. 
+![OmniSOD Framework](intro.png)
+
 The [trained model](https://pan.baidu.com/s/1XrjVo-3aIjtz1we7VyYhsw?pwd=USOD) (Baidu Netdisk, fetch code: OmniSOD) or [Google Drive version](https://drive.google.com/file/d/1SMGjuNXauvSFUt9BW4tg6rtq0ZBsbTKm/view?usp=sharing) can be downloaded.
 
 ![OmniSOD Framework](framework1.png)
